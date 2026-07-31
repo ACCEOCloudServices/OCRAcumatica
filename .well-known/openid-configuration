@@ -1,0 +1,4 @@
+{
+  "issuer": "https://yolandmorin.github.io/OCRAcumatica",
+  "jwks_uri": "https://yolandmorin.github.io/OCRAcumatica/.well-known/jwks"
+}
