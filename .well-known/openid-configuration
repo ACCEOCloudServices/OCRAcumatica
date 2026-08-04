@@ -1,4 +1,4 @@
 {
-  "issuer": "https://yolandmorin.github.io/OCRAcumatica",
-  "jwks_uri": "https://yolandmorin.github.io/OCRAcumatica/.well-known/jwks"
+  "issuer": "https://ACCEOCloudServices.github.io/OCRAcumatica",
+  "jwks_uri": "https://ACCEOCloudServices.github.io/OCRAcumatica/.well-known/jwks"
 }
