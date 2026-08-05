@@ -1,4 +1,3 @@
 include:
   - .well-known
-- identity
-- identity/connect
+  - identity
