@@ -1,4 +1,0 @@
-{
-  "issuer": "https://ACCEOCloudServices.github.io/OCRAcumatica",
-  "jwks_uri": "https://ACCEOCloudServices.github.io/OCRAcumatica/.well-known/jwks"
-}
